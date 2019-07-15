@@ -1,5 +1,6 @@
 # react-native-namescore
 npm install
 
-# dont have String validation
+# doesn't have String validation
+No String validation within name holder.
 Alert function is implmented though
